@@ -35,7 +35,7 @@ This repo guides you through every essential core concept of Node.js with exampl
 
 ```
 
-nodejs-core-mastery/
+Nodejs-mastery/
 ├── 01-fundamentals/
 ├── 02-modules/
 ├── 03-fs/
@@ -62,7 +62,7 @@ nodejs-core-mastery/
 
 ---
 
-## ✅ 1. Node.js Fundamentals
+## 1-nodejs-Fundamentals
 
 - What is Node.js?
 - V8 engine

@@ -9,7 +9,7 @@ Master Node.js from the ground up — without relying on frameworks! This reposi
 This repo guides you through every essential core concept of Node.js with examples, mini-projects, and references:
 
 1. [Node.js Fundamentals](#1-nodejs-fundamentals)
-2. [Modules & Require System](#2-modules--require-system)
+2. [Modules & Require System](#2-modules-require-system)
 3. [File System (fs)](#3-file-system-fs)
 4. [Event Loop & Event Emitters](#4-event-loop--event-emitters)
 5. [Streams and Buffers](#5-streams-and-buffers)
@@ -73,7 +73,7 @@ Nodejs-mastery/
 
 ---
 
-## ✅ 2. Modules & Require System
+## 2. Modules-Require-System
 
 - CommonJS (`require`, `module.exports`)
 - ES Modules (`import`, `export`)

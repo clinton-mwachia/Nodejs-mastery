@@ -1,2 +1,0 @@
-This is a new file created using fs.writeFile.
-This line was appended using fs.appendFile.

@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("node:fs");
 
 // Rename file
 fs.rename("newfile.txt", "renamed_file.txt", (err) => {

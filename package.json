@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mastery",
+  "version": "1.0.0",
+  "description": "Master Node.js from the ground up — without relying on frameworks! This repository is a structured path to **learn, practice, and master** core Node.js internals, modules, and native APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clinton-mwachia/Nodejs-mastery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/clinton-mwachia/Nodejs-mastery/issues"
+  },
+  "homepage": "https://github.com/clinton-mwachia/Nodejs-mastery#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.15"
+  }
+}

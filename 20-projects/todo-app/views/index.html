@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Todo App</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>📝 My Todo List</h1>
+
+      <form method="POST" action="/add" class="add-form">
+        <input name="title" placeholder="Enter new todo..." required />
+        <button type="submit">➕ Add</button>
+      </form>
+
+      <ul>
+        {{todos}}
+      </ul>
+    </div>
+  </body>
+</html>

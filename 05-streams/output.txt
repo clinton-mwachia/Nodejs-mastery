@@ -1,0 +1,5 @@
+Line 1: Hello stream!
+Line 2: Hello stream!
+Line 3: Hello stream!
+Line 4: Hello stream!
+Line 5: Hello stream!

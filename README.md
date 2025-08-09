@@ -233,7 +233,7 @@ Nodejs-mastery/
 
 ---
 
-## ✅ 18. Testing (Optional)
+## ✅ 18. Testing
 
 - Core `assert` module
 - Using `mocha`, `chai`, or `jest`
